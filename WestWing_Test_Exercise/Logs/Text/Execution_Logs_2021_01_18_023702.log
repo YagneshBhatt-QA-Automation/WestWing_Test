@@ -1,0 +1,23 @@
+2021-01-18 14:37:03 INFO  TestBase:67 - Running Tests On web Platform.
+2021-01-18 14:37:06 INFO  TestBase:96 - Starting brower
+2021-01-18 14:37:06 INFO  DriverScript:51 - Running Step: VerifyLooksListingPage
+2021-01-18 14:37:22 INFO  HomePageWestWing:81 - validated filter successfully
+2021-01-18 14:37:23 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Filter20210118023722.png
+2021-01-18 14:37:23 INFO  HomePageWestWing:61 - Page shown list of looks. Number of Listing found
+2021-01-18 14:37:24 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Listoflooks20210118023723.png
+2021-01-18 14:37:27 INFO  HomePageWestWing:158 - Login Successfully
+2021-01-18 14:37:54 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot120210118023753.png
+2021-01-18 14:37:56 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot220210118023755.png
+2021-01-18 14:37:57 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot320210118023756.png
+2021-01-18 14:37:58 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot420210118023757.png
+2021-01-18 14:38:00 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot520210118023758.png
+2021-01-18 14:38:01 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot620210118023800.png
+2021-01-18 14:38:02 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Spot720210118023801.png
+2021-01-18 14:38:02 INFO  HomePageWestWing:124 - validating first 8 sports
+2021-01-18 14:38:02 INFO  DriverScript:88 - Running Step: VerifyWishListFunctionality
+2021-01-18 14:38:08 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Search20210118023805.png
+2021-01-18 14:38:08 INFO  HomePageWestWing:181 - Search the text mobel
+2021-01-18 14:38:39 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Item1WishIconSelected20210118023839.png
+2021-01-18 14:38:39 INFO  HomePageWestWing:207 - Wish counter 1
+2021-01-18 14:38:44 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Item1WishIconSelectedProduct20210118023843.png
+2021-01-18 14:38:44 INFO  ReusableFunctions:301 - Saving screenshot to pass repo: C:\westwing\WestWing_Test_Exercise\Screenshots\Item1WishIconSelectedProductDeleted20210118023844.png

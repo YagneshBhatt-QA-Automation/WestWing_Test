@@ -1,0 +1,6 @@
+com\Westwingnow_Web\base\TestBase.class
+com\Westwingnow_Web\Functionality\HomePageWestWing.class
+com\Westwingnow_Web\Util\ReusableFunctions.class
+com\Westwingnow_Web\testData\DataReader.class
+com\Westwingnow_Web\ObjectRepo\Westwingnow_HomePage_OR.class
+com\Westwingnow_Web\Util\PropertyData.class
